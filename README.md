@@ -19,7 +19,7 @@
  </p> 
  </div> 
  <p align="center"> 
-  Currently working on <a href="https://gist.github.com/Mrimperfect7">Hermit-Plugins</a> to reach everyone 
+  Currently working on <a href="https://wa.me/918848377746?text=I'm%20intrested%20to%20getyour%20hermit%20plugins">Hermit-Plugins</a> to reach everyone 
      <br> 
      <br>  
  </p> 

@@ -12,7 +12,7 @@
  <img src="https://media.giphy.com/media/jdFm2bcWlj4EUVCpc0/giphy.gif" alt="GIF" width="250" height="250"/> 
  </p> 
   <p align="center"> 
- <a href="#"><img title="LOKI SER" src="https://img.shields.io/badge/IMPU SER-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> 
+ <a href="#"><img title="IMPU SER" src="https://img.shields.io/badge/IMPU SER-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> 
  </p> 
    <p align="center"> 
  <a href="https://github.com/Mrimperfect7"><img title="Author" src="https://img.shields.io/badge/Author-IMPU-SER/Impu?color=blue&style=for-the-badge&logo=github"></a> 
